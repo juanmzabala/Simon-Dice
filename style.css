@@ -119,3 +119,16 @@ body{
 .reiniciar:active{
     background-color: #c02232 !important;
 }
+
+.powered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logo{
+    width: 40%;
+    padding: 0;
+}
